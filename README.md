@@ -1,4 +1,4 @@
-# link File Bahan untuk developer Flutter
+# Link File Bahan untuk developer Flutter
 
 ## Android Studio : 
 ```
@@ -20,12 +20,12 @@ https://docs.flutter.dev/get-started/install/windows
 https://visualstudio.microsoft.com/downloads/
 ```
 
-### java JDK : -
+### Java JDK : -
 ### Java JRE	: -
 
 ### Android SDK : (download langsung di Android studio)
 ### Driver USB Google : (download langsung di Android studio)
-### plugin flutter & dart	: (download langsung di Android studio/vscode)
+### Plugin flutter & dart	: (download langsung di Android studio/vscode)
 
 ## Dokumentasi Flutter : 
 ```
