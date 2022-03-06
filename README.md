@@ -20,14 +20,14 @@ https://docs.flutter.dev/get-started/install/windows
 https://visualstudio.microsoft.com/downloads/
 ```
 
-java JDK : -
-Java JRE	: -
+### java JDK : -
+### Java JRE	: -
 
-Android SDK : (download langsung di Android studio)
-Driver USB Google : (download langsung di Android studio)
-plugin flutter & dart	: (download langsung di Android studio/vscode)
+### Android SDK : (download langsung di Android studio)
+### Driver USB Google : (download langsung di Android studio)
+### plugin flutter & dart	: (download langsung di Android studio/vscode)
 
-Dokumentasi Flutter : 
+## Dokumentasi Flutter : 
 ```
 https://docs.flutter.dev/get-started/install/windows
 ```
