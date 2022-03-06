@@ -1,3 +1,7 @@
 # System-Requirements-Flutter
 
-link : google.com
+Contoh
+
+<clipboard-copy>
+ click copy
+</clipboard-copy>
